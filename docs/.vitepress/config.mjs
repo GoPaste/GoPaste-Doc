@@ -7,11 +7,11 @@ export default defineConfig({
   description: 'GoPaste - A lightweight, fast, and secure cross-platform clipboard manager',
   //outDir: './.vitepress/dist/',  // 相对于 docsDir，即 GoPaste-Doc/dist/
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/images/appicon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/images/icon.png' }],
   ],
 
   themeConfig: {
-    logo: '/images/appicon.png',
+    logo: '/images/icon.png',
     siteTitle: 'GoPaste',
 
     socialLinks: [

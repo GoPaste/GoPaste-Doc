@@ -51,7 +51,7 @@ export default {
     },
 
     footer: {
-      message: '基于 MIT 许可证发布',
+      message: '基于 Apache-2.0 许可证发布',
       copyright: 'Copyright © 2026 larkwins',
     },
 

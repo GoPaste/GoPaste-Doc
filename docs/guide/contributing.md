@@ -87,4 +87,4 @@ docs: 更新 macOS 辅助功能说明
 
 ## 许可证
 
-提交贡献即表示你同意你的贡献将以 [MIT 许可证](https://github.com/GoPaste/GoPaste/blob/main/LICENSE) 发布。
+提交贡献即表示你同意你的贡献将以 [Apache-2.0 许可证](https://github.com/GoPaste/GoPaste/blob/main/LICENSE) 发布。

@@ -87,4 +87,4 @@ docs: update macOS accessibility guide
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [MIT License](https://github.com/GoPaste/GoPaste/blob/main/LICENSE).
+By contributing, you agree that your contributions will be licensed under the [Apache-2.0 License](https://github.com/GoPaste/GoPaste/blob/main/LICENSE).
